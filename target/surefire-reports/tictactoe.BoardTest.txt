@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: tictactoe.BoardTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 8, Skipped: 0, Time elapsed: 0.048 s <<< FAILURE! - in tictactoe.BoardTest
+testGetNextMarkO  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at tictactoe.BoardTest.testGetNextMarkO(BoardTest.java:41)
+
+testCopyConstructor  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at tictactoe.BoardTest.testCopyConstructor(BoardTest.java:28)
+
+testIsValidMove  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at tictactoe.BoardTest.testIsValidMove(BoardTest.java:79)
+
+testIsEndedParità  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at tictactoe.BoardTest.testIsEndedParità(BoardTest.java:101)
+
+testIsEnded1  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at tictactoe.BoardTest.testIsEnded1(BoardTest.java:92)
+
+testIsEndedO  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at tictactoe.BoardTest.testIsEndedO(BoardTest.java:131)
+
+testIsEndedX  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at tictactoe.BoardTest.testIsEndedX(BoardTest.java:118)
+
+testDefaultConstructor  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at tictactoe.BoardTest.testDefaultConstructor(BoardTest.java:20)
+

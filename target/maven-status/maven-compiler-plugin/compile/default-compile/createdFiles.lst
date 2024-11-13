@@ -1,0 +1,6 @@
+tictactoe\UserInterface.class
+tictactoe\ComputerPlayer.class
+tictactoe\Game.class
+tictactoe\Player.class
+tictactoe\HumanPlayer.class
+tictactoe\Board.class
