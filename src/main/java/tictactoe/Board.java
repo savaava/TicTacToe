@@ -11,6 +11,9 @@ package tictactoe;
  * il prossimo giocatore è il giocatore X;
  * altrimenti il prossimo giocatore è O.
  * 
+ * 
+ * 
+ * 
  */
 public class Board {
     /** 
